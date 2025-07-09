@@ -1,1 +1,38 @@
 # Proyecto Sprint 9
+
+## Proyecto: Optimización de Inversión en Marketing – Showz
+
+### Objetivo
+Analizar el comportamiento de usuarios y clientes en la plataforma **Showz** con el fin de **identificar las fuentes de adquisición más rentables** y **recomendar una redistribución eficiente del presupuesto de marketing**.
+
+---
+
+### Qué se hizo
+
+- Se estudiaron más de dos años de datos: visitas, pedidos y costos publicitarios.
+- Se calcularon métricas clave: **LTV, CAC y ROMI** por fuente de adquisición.
+- Se aplicó análisis por **cohortes**, mapas de calor y segmentación por dispositivo.
+
+---
+
+### Qué se logró
+
+- Identificar fuentes con **ROMI superior al 100%**, destacando Source 1 y Source 2 como las más rentables.
+- Determinar que la **conversión ocurre mayormente el mismo día**, lo que facilita estrategias de captación inmediata.
+- Validar que dispositivos móviles tienen **mayor ticket promedio**, lo que apoya la optimización de la experiencia móvil.
+- Detectar fuentes con bajo rendimiento (Source 3 y Source 10), donde se sugiere **reducir inversión**.
+
+---
+
+### Recomendación final
+
+- **Priorizar Source 1 y Source 2**: excelentes retornos y buen equilibrio costo-ingreso.
+- **Impulsar moderadamente Source 4 y Source 5**, especialmente en meses clave.
+- **Reasignar presupuesto desde Source 3 y Source 10**, redirigiendo hacia fuentes más eficientes.
+- Aprovechar la **estacionalidad alta en Q4** para maximizar resultados.
+
+---
+
+Este análisis permite **tomar decisiones informadas**, **mejorar la eficiencia presupuestal** y **aumentar la rentabilidad del área de marketing**, enfocando los esfuerzos donde realmente se generan resultados.
+
+
