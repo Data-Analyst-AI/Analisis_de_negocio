@@ -26,10 +26,11 @@ Analizar el comportamiento de usuarios y clientes en la plataforma **Showz** con
 
 ### Recomendación final
 
-- **Priorizar Source 1 y Source 2**: excelentes retornos y buen equilibrio costo-ingreso.
-- **Impulsar moderadamente Source 4 y Source 5**, especialmente en meses clave.
-- **Reasignar presupuesto desde Source 3 y Source 10**, redirigiendo hacia fuentes más eficientes.
-- Aprovechar la **estacionalidad alta en Q4** para maximizar resultados.
+- Priorizar inversión mensual de \$25 000–\$30 000 en las fuentes con mejor ROI (1, 4, 5 y 2), 
+  asignando 35 % / 30 % / 20 % / 15 % respectivamente.  
+- Reasignar presupuesto desde la fuente 3 (alto CAC y ROI negativo) hacia canales eficientes de alto ticket y CAC moderado.  
+- Reducir o eliminar gasto en fuentes de bajo tamaño de compra y/o datos CAC insuficientes (7, 9 y 10).  
+- Monitorear LTV y ROMI por cohorte y fuente cada mes y ejecutar pruebas A/B para ajustar la estrategia en tiempo real.
 
 ---
 
