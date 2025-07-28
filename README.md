@@ -1,4 +1,4 @@
-# Project: Marketing Investment Optimization – Showz
+# Project sprint 9: Marketing Investment Optimization – Showz
 
 ## Objective  
 Analyze user and customer behavior on the Showz platform to identify the most profitable acquisition channels and recommend an efficient redistribution of the marketing budget.
@@ -6,7 +6,6 @@ Analyze user and customer behavior on the Showz platform to identify the most pr
 ### Proyecto sprint 9: Optimización de Inversión en Marketing – Showz
 
 Objetivo
-
 Analizar el comportamiento de usuarios y clientes en la plataforma **Showz** con el fin de **identificar las fuentes de adquisición más rentables** y **recomendar una redistribución eficiente del presupuesto de marketing**.
 
 ---
